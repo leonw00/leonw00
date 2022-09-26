@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, I'm Leo!
+
+I'm a passionate developer 👨🏻‍💻 and a Computer Science Honors (Co-op) Student 🎓 at the University of Manitoba. I am currently working in G3 Canada Limited as a part-time Junior Developer. 
+
+### Information about me:
+* 🔭 I’m currently working on MapleMap (A guide map of Canada)
+* 🧡 My current intersets are full-stack web development, database devlopment, ios/android development and DevOps
+
+
 
 <!--
 **leonw00/leonw00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
