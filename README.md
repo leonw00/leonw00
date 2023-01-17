@@ -3,7 +3,7 @@
 I'm a passionate developer 👨🏻‍💻 and a Computer Science Honors (Co-op) Student 🎓 at the University of Manitoba. I am currently working in G3 Canada Limited as a part-time Junior Developer. 
 
 ### Information about me:
-* 🔭 I'm currently making a fun web-based card game 👀
+* 🔭 I'm currently making a little web-based card game 👀
 * 🧡 My current intersets are full-stack web development, database devlopment, ios/android development and DevOps
 
 
