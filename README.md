@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm Leo!
 
-I'm a passionate developer 👨🏻‍💻 and a Computer Science Honors (Co-op) Student 🎓 at the University of Manitoba. I am currently working in G3 Canada Limited as a part-time Junior Developer. 
+I'm a passionate developer 👨🏻‍💻 and a Computer Science Honors (Co-op) Student 🎓 at the University of Manitoba. I am currently working at Wawanesa as an Application Developer. 
 
 ### Information about me:
-* 🔭 I'm currently making a little web-based card game 👀
+* 🔭 I'm currently tweaking around with Vector Databases and Machine Learning Models 👀
 * 🧡 My current intersets are full-stack web development, database devlopment, ios/android development and DevOps
 
 
