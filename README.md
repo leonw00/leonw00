@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Leo!
 
-I'm a passionate developer 👨🏻‍💻 and a Computer Science Honors (Co-op) Student 🎓 at the University of Manitoba. I am currently working at Wawanesa as an Application Developer. 
+I'm a passionate developer 👨🏻‍💻 graduating Computer Science Honors (Co-op) from the University of Manitoba. I am currently working at QDoc as a Software Developer. 
 
 ### Information about me:
 * 🔭 I'm currently tweaking around with Vector Databases and Machine Learning Models 👀
